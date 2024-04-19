@@ -1,0 +1,56 @@
+[
+        {
+            "id": 1,
+            "nome": "EcoExplorer",
+            "desc": "Uma aventura interativa onde jogadores exploram diferentes ecossistemas, aprendendo sobre biomas, cadeias alimentares e conservação ambiental.",
+            "obje": "Educar sobre a importância da biodiversidade e práticas de sustentabilidade.",
+            "placa": "GreenFuture Games",
+            "empre": "R$ 60,00",
+            "whatsapp": "558198054372"
+        },
+        {
+            "id": 2,
+            "nome": "Prof. Carlos Numerato's Math Labyrinth",
+            "desc": "Um jogo de labirinto onde cada movimento requer solucionar problemas de matemática para avançar, cobrindo temas como álgebra, geometria e aritmética.",
+            "obje": "Melhorar as habilidades matemáticas de forma divertida e desafiadora.",
+            "empre": "EduNumbers Ltda.",
+            "preco": "R$ 45,00",
+            "whatsapp": "558127748248"
+        },
+        {
+            "id": 3,
+            "nome": "Dra. Eva Chronicle's Historia Builders",
+            "desc": "Um jogo de estratégia onde jogadores constroem civilizações antigas, gerenciando recursos, desenvolvendo tecnologias e enfrentando eventos históricos reais.",
+            "obje": "Aprender sobre história e desenvolvimento cultural de diferentes sociedades.",
+            "empre": "TimeTrek Studios",
+            "preco": "R$ 75,00",
+            "whatsapp": "558136848344"
+        },
+        {
+            "id": 4,
+            "nome": "Word Wonders",
+            "desc": "Uma jornada através de mundos fantásticos onde os jogadores usam habilidades de leitura e escrita para resolver enigmas e avançar na história.",
+            "obje": "Reforçar a compreensão e o uso efetivo do idioma.",
+            "empre": "LiteracyQuest Games",
+            "preco": "R$ 50,00",
+            "whatsapp": "558135362789"
+        },
+        {
+            "id": 5,
+            "nome": "SpaceTime Adventure",
+            "desc": "Uma simulação espacial onde jogadores viajam pelo sistema solar, aprendendo sobre física, astronomia e a tecnologia necessária para exploração espacial.",
+            "obje": "Inspirar interesse e conhecimento em ciências espaciais.",
+            "empre": "Cosmos Gaming Co.",
+            "preco": "R$ 80,00",
+            "whatsapp": "558139200231"
+        },
+        {
+            "id": 6,
+            "nome": "Mr. Felix Harmonix's Rhythm & Rhyme",
+            "desc": "Um jogo musical onde jogadores aprendem sobre diferentes instrumentos, gêneros musicais e teoria musical enquanto compõem suas próprias músicas.",
+            "obje": "Ensinar fundamentos da música de maneira interativa e criativa.",
+            "empre": "Melody Makers Inc.",
+            "preco": "R$ 65,00",
+            "whatsapp": "558138700548"
+        }
+    ]
